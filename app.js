@@ -2,7 +2,7 @@
 const myAge = 5;
 
 //Edad temprana
-let earlyYears = 2;
+let earlyYears = 1;
 
 earlyYears *= 10.5;
 
